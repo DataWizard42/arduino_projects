@@ -1,3 +1,5 @@
+author:vaibhav mane
+
 // Line follower code using Smartelex RLS-06 6 IR line sensors and an Arduino board
 
 // Define the pins for the line sensors
